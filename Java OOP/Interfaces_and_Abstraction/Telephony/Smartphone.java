@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Smartphone implements Callable, Browsable {
+
+public class Smartphone implements Callablee, Browsable {
 
     private List<String> numbers;
     private List<String> urls;

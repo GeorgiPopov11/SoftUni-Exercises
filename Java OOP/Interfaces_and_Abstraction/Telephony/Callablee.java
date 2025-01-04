@@ -1,6 +1,6 @@
 package Interfaces_and_Abstraction.Telephony;
 
-public interface Callable {
+public interface Callablee {
 
     String call();
 

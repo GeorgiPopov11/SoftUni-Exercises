@@ -93,4 +93,3 @@ public class P04ListManipulationAdvanced {
 
     }
 }
- 36k
