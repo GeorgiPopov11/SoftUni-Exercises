@@ -10,7 +10,7 @@ public class Animal {
         this.favouriteFood = favouriteFood;
     }
 
-    public String explainSelf(){
+    public String explainSelf() {
         return String.format("I am %s and my favourite food is %s", this.name, this.favouriteFood);
 
 
